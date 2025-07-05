@@ -34,7 +34,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/<your-username>/restful-api.git
+git clone https://github.com/VaishnaviBage/Restful-API
 cd restful-api
 Install dependencies:
 
@@ -49,7 +49,7 @@ Create a .env file in the root and add your MongoDB URI:
 env
 Copy
 Edit
-MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/rest-api-app?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://Vaishnavi:Vaishnavi21@cluster0.mongodb.net/rest-api-app?retryWrites=true&w=majority
 Run the server:
 
 bash
